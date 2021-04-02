@@ -1,4 +1,4 @@
-# i18fn
+# i18furuta
 今年は手を動かします.  
 [Homepage](https://i18fn.netlify.app/)  
 
